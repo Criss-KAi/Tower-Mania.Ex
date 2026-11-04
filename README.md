@@ -12,8 +12,8 @@ Juego de plataformas 2D en pixel art hecho con Unity 6. Eliges entre tres person
 
 ## Cómo instalarlo y jugar
 
-1. Ve a la sección **[Releases]([ENLACE A LOS RELEASES DEL REPOSITORIO])** de este repositorio.
-2. En la última versión, descarga el archivo **`[Tower-Mania game].zip`**.
+1. Ve a la sección **[Releases](https://github.com/Criss-KAi/Tower-Mania.Ex/releases)** de este repositorio.
+2. En la última versión, descarga el archivo **`Tower-mania game.zip`**.
 3. **Extrae el .zip** en una carpeta (clic derecho → *Extraer todo*). No ejecutes el juego desde dentro del .zip.
 4. Abre la carpeta y ejecuta **`Tower-Mania.exe`**.
 

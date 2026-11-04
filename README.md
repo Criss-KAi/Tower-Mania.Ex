@@ -69,5 +69,3 @@ Abre un *Issue* en este repositorio o cuéntamelo en la encuesta. Si puedes, ind
 *Gracias por probar el juego.*
 
 *Gracias por probar el juego.*
-
-*Gracias por probar el juego.*

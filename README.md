@@ -1,6 +1,6 @@
 # Tower-Mania
 
-Juego de plataformas 2D en pixel art hecho con Unity 6. Eliges entre tres personajes (Minerva, Hugo e Idalia), recorres la zona tutorial y la zona industrial, resuelves puzzles y llegas a la Torre para enfrentarte al jefe final.
+**Tower-Mania** es un videojuego de plataformas 2D en pixel art, desarrollado con Unity 6, creado para fortalecer el pensamiento algorítmico. A lo largo de la zona tutorial, la zona industrial y la Torre, el jugador resuelve puzzles que exigen ordenar secuencias de pasos, planificar con recursos limitados, optimizar movimientos y comprobar su solución, mientras controla a Minerva, Hugo o Idalia y se enfrenta a enemigos y jefes.
 
 > **Es una versión de prueba.** Tu opinión me ayuda a mejorarlo.
 > **No importa hasta dónde llegues en el juego: por favor responde la encuesta al terminar de jugar.**
@@ -58,18 +58,6 @@ Durante el juego, la Divinidad te explicará las mecánicas.
 
 Abre un *Issue* en este repositorio o cuéntamelo en la encuesta. Si puedes, indica en qué zona estabas, con qué personaje jugabas y qué estabas haciendo.
 
-## Para desarrolladores: abrir el proyecto
-
-Este repositorio contiene el proyecto de Unity.
-
-1. Instala Unity [VERSIÓN DE UNITY 6] desde Unity Hub.
-2. Clona el repositorio y abre la carpeta del proyecto desde Unity Hub (*Add project from disk*).
-3. Unity regenerará las carpetas `Library`, `Logs` y `UserSettings` la primera vez.
-
-Contenido principal:
-- `Assets/`: escenas, scripts, sprites, música y efectos de sonido.
-- `Packages/` y `ProjectSettings/`: paquetes y configuración de Unity.
-
 ## Créditos
 
 - **Desarrollo:** Cristian Ahumada
@@ -77,6 +65,8 @@ Contenido principal:
 - Hecho con Unity 6
 
 ---
+
+*Gracias por probar el juego.*
 
 *Gracias por probar el juego.*
 

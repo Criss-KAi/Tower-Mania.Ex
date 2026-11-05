@@ -15,7 +15,7 @@
 1. Entra al repositorio: **[Tower-Mania.Ex](https://github.com/Criss-KAi/Tower-Mania.Ex)**.
 2. Haz clic en el botón verde **Code** y luego en **Download ZIP**.
 3. Cuando termine la descarga, **extrae el .zip** en una carpeta (clic derecho → *Extraer todo*). No ejecutes el juego desde dentro del .zip.
-4. Dentro de lo extraído, abre la carpeta **`Tower-mania game`**.
+4. Dentro de lo extraído, abre la carpeta **`Tower-mania EX`**.
 5. Ejecuta **`Tower-Mania.exe`**.
 
 No necesita instalación: basta con extraer y abrir.

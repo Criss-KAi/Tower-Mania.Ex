@@ -27,7 +27,7 @@ Haz clic en **Más información** y luego en **Ejecutar de todas formas**.
 ## Requisitos
 
 - Windows 10 u 11 de 64 bits
-- Espacio en disco: 300 MB
+- Espacio en disco: 256 MB
 - Teclado y ratón
 
 ## Controles

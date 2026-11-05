@@ -60,12 +60,13 @@ Abre un *Issue* en este repositorio o cuéntamelo en la encuesta. Si puedes, ind
 
 ## Créditos
 
-- **Desarrollo:** Cristian Ahumada
-- **Música y arte:** Julian Martínez
+- **Desarrollo:** Cristian Ahumada y Julian Martínez
+- **Música:** Julian Martínez
+- **Arte (personajes, enemigos y sprites):** Julian Martínez
+- **Arte y diseño de los mapas:** Cristian Ahumada
 - Hecho con Unity 6
-
 ---
 
 *Gracias por probar el juego.*
 
-*Gracias por probar el juego.*
+*Muchas Gracias por probar el juego.*
